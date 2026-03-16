@@ -1,0 +1,14 @@
+@startuml
+package "CubeSat Simulator" {
+  [Main.py] --> [Orbit Propagation]
+  [Main.py] --> [Coordinate Transform]
+  [Main.py] --> [Visibility Analysis]
+  [Main.py] --> [Visualization]
+  [Main.py] --> [AI Predictor]
+  [Orbit Propagation] --> [TLE Data]
+  [Coordinate Transform] --> [Ground Station CSV]
+  [Visibility Analysis] --> [Elevation Calculations]
+  [Visualization] --> [Plots]
+  [AI Predictor] --> [Pass Prediction]
+}
+@enduml
