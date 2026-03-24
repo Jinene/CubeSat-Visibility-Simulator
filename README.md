@@ -4,9 +4,7 @@
 ![Last commit](https://img.shields.io/github/last-commit/jinene/CubeSat-Visibility-Simulator?style=for-the-badge)
 ![Issues](https://img.shields.io/github/issues/jinene/CubeSat-Visibility-Simulator?style=for-the-badge)
 ![Forks](https://img.shields.io/github/forks/jinene/CubeSat-Visibility-Simulator?style=for-the-badge)
-![Python version](https://img.shields.io/badge/python-3.11+-blue?style=for-the-badge)
-![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)![Python version](https://img.shields.io/badge/python-3.11+-blue?style=for-the-badge)  
-![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)  
+![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)![Python version](https://img.shields.io/badge/python-3.11+-blue?style=for-the-badge)    
 
 > **Simulate and visualize CubeSat visibility from ground stations with pass predictions, elevation/azimuth profiles, and Doppler calculations.**  
 > Ideal for aerospace engineers, satellite operators, and space enthusiasts 🚀.
