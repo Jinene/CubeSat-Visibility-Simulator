@@ -1,6 +1,6 @@
 """
 CubeSat Ground Station Visibility Simulator
-------------------------------------------
+---------------------------------------------
 Professional Python module for CubeSat pass prediction, orbit propagation,
 ground station visibility, and visualization using real TLE data and Skyfield.
 """
