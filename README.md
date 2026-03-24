@@ -1,6 +1,6 @@
 # 🛰 CubeSat Ground Station Visibility Simulator – Python Orbital Tracker
 
-![GitHub repo size](https://img.shields.io/github/repo-size/<your-username>/CubeSat-Visibility-Simulator?style=for-the-badge)  
+![GitHub repo size](https://img.shields.io/github/repo-size/<Jinene>/CubeSat-Visibility-Simulator?style=for-the-badge)  
 ![Python version](https://img.shields.io/badge/python-3.11+-blue?style=for-the-badge)  
 ![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)  
 
